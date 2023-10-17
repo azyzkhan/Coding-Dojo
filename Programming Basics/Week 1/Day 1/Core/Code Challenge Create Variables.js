@@ -10,7 +10,7 @@ var ageRequirments = 10;
 
 // Adictional //
 var ifHeightDidNotMeetTheRequirments = false
-var IfAgeDidnotMeetTheRequuirments = false
+var IfAgeDidnotMeetTheRequirments = false
 
 
 console.log(themePark);
