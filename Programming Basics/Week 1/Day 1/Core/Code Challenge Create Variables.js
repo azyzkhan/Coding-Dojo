@@ -8,7 +8,7 @@ var ageRequirments = 10;
 // Age Requirments must be at the age of 10 //
 
 
-// Adictional  //
+// Adictional //
 var ifHeightDidNotMeetTheRequirments = false
 var IfAgeDidnotMeetTheRequuirments = false
 
